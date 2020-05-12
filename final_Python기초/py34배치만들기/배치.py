@@ -1,0 +1,1 @@
+print("배치 python")
